@@ -66,7 +66,7 @@ jupyter notebook nasdaq_top5_analysis.ipynb
 ## Services
 
 Interested in a tailored analysis for your portfolio or a specific set of assets?  
-**[Get in touch](https://www.freelancer.com/u/annearcana)**
+**[Get in touch](mailto:annearcana@outlook.com)**
 
 ---
 
